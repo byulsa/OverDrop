@@ -18,3 +18,5 @@ UserSettings/
 # OS
 .DS_Store
 Thumbs.db
+
+ignore.conf
