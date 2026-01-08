@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Line1
+  - Line2
+  - Line3
+  - Line4
+  - Line5
+  - Line6
+  - LoaderObject
+  - UI
+  - jugdText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Post-Processing
+  - Water
+  - UI
+  - ShortNote
+  - LongNote
+  - EndLongNote
+  - EndNote
+  - MeasureLineLayer
+  - Particles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1434184319
+    locked: 0
+  - name: MeasureLine
+    uniqueID: 956893755
+    locked: 0
+  - name: Note
+    uniqueID: 3350275471
+    locked: 0
+  - name: gear
+    uniqueID: 3232572381
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
