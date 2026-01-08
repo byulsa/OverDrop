@@ -1,4 +1,0 @@
-repository "RhythmHacker 2025-05-21_09-13-20/RhythmHacker@14569286973070@cloud"
-  path "/"
-    br "/main"
-    co "/main"

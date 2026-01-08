@@ -1,0 +1,20 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# IDE / Visual Studio
+*.csproj
+*.sln
+*.slnx
+
+# Plastic SCM
+.plastic/
+
+# OS
+.DS_Store
+Thumbs.db
